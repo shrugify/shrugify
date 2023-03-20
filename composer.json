@@ -1,0 +1,15 @@
+{
+    "name": "shrugify/shrugify",
+    "autoload": {
+        "psr-4": {
+            "Shrugify\\Shrugify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Adler",
+            "email": "info@shrugify.com"
+        }
+    ],
+    "require": {}
+}
